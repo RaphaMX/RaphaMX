@@ -41,21 +41,23 @@
 
 <h2> 🚀 &nbsp;Recent Projects</h2>
 
+
+<div align="center">
+
 | 🌐 Web Dev                                                               | 🎮 Game Dev                                                                  |
-|-----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | [Matrix Calculator](https://github.com/RaphaMX/MatrixCalculator)  <br>🧮 Matrix calculator in C# | [Super ProFighters](https://github.com/LeonardoGaeta/Boxing-Game)  <br>🥊 Simple Boxing game, developed as a team. |
 
+</div>
 
 <h2> 📊 &nbsp; GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaphaMX&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaMX&layout=compact&theme=tokyonight&show_icons=true" height="180"/>  
+  <img src="https://github.com/RaphaMX/RaphaMX/blob/output/github-snake-dark.svg" height="180"/>  
 </p>
 
-![Snake animation](https://github.com/RaphaMX/RaphaMX/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
